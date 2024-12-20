@@ -1,0 +1,47 @@
+
+    body{
+    color: white;
+    font-family: "Rowdies";
+    background-image: url(bg.avif);
+    background-size: cover;
+}
+
+
+.col-custom{
+    background-color: #87A878;
+    color: black;
+}
+
+
+.container-custom{
+    background-color: #87A878;
+}
+
+.btn-custom{
+    background-color: #87A878;
+}
+
+
+nav{
+    background-color: #87A878;
+}
+
+a{
+    color: black;
+}
+
+.col-sm-2 {
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+}
+
+footer {
+ background-color: #87A878;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-top: 2px solid #847577;
+}
